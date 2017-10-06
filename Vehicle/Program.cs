@@ -1,6 +1,6 @@
 using System;
 
-class Vehicle
+class Program
 {
     static void Main(string[] args)
     {
